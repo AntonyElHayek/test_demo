@@ -1,0 +1,4 @@
+Hello! 
+This file was used to test the "touch" and "notepad" commands.
+
+Wooo!
